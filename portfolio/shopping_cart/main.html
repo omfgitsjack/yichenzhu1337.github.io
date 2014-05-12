@@ -1,0 +1,55 @@
+<!DOCTYPE html 
+	PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Future Buy</title>
+		<script type="text/javascript" src="storage.js"></script>
+		<link rel="stylesheet" type="text/css" 	href="style.css" />
+	</head>
+
+	<body>	
+		<h1>Future Buy</h1>
+	
+		<table style="width:800"  border="1">
+			<tr id="background">
+				<td class="center"><input type="button"  value="Company" onclick="window.open('main.html','_self')"/></td>
+				<td class="center"><input type="button"  value="category" onclick="window.open('main.html?operation=showcategory','_self')"/></td>
+				<td class="center"><input type="button"  value="Product" onclick="window.open('main.html?operation=showallproduct','_self')"/></td>
+				<td class="center"><input type="button"  value="Sale" onclick="window.open('main.html?operation=showsale','_self')"/></td>
+				<td class="center"><input type="button"  value="Show Cart" onclick="window.open('main.html?operation=showcart','_self')"/></td>
+				<td class="center"><input type="button" value="Check Out" onclick="window.open('main.html?operation=checkout','_self')"/></td>
+			</tr>
+		</table>
+		
+		<p>
+			<br/>
+			<br/>
+			<br/>
+		</p>
+		
+		<table>
+			<tr>
+				<td style="width:100"></td>
+				<td style="width:600">
+					<form action="main.html">
+						<div> <input type="hidden" name="operation" value="search"/> 
+						<b>Search product:</b><input name= "searchtext" type="text" size="20"/>
+						&nbsp;&nbsp;<input type="submit" value="go" /> </div> 
+					</form>
+					
+					<p>
+						<br/>
+					</p>
+					
+					<script type="text/javascript" >
+					   menucontrol();
+					</script>
+				</td>
+				<td style="width:100"></td>
+			</tr>
+		</table>
+		
+	</body>
+	
+</html> 

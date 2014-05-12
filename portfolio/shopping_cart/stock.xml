@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="category.xsl"?>
+<!--<!DOCTYPE storage SYSTEM "stock.dtd">-->
+
+<storage>
+
+	<item>
+		<ID onsale="yes">A001</ID>
+		<company>Toshiba </company>
+		<product>Toshiba Satellite 15.6" AMD E-350 Laptop </product>
+		<category>Computers</category>
+		<description>It gives you outstanding performance in your day-to-day tasks, digital entertainment and beyond</description>
+		<price>$379.99</price>
+		<sale>$329.99 </sale>
+		<unit> laptop&amp;charger </unit>
+		<picture src="pics/Toshibalaptop.jpg"></picture>
+	</item>
+		
+	<item>	
+		<ID onsale="no">A002</ID>
+		<company>Compaq</company>
+		<product>Compaq Presario AMD Athlon II Quad Core 640 Desktop Computer </product>
+		<category>Computers</category>
+		<description>A large 750GB hard drive provides ample room for storage,and quad core gives you fast processing</description>
+		<price>$499.99</price>
+		<sale>$400.99 </sale>
+		<unit>Desktop&amp;keyboard+mouse </unit>
+		<picture src="pics/compaqdesktop.jpg "></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">A003</ID>
+		<company>Canon</company>
+		<product> Canon PIXMA Wireless All-In-One Inkjet Printer </product>
+		<category>Computers</category>
+		<description>a stylish, compact design delivering a fantastic combination of performance and convenience</description>
+		<price>$139.99</price>
+		<sale>$99.99 </sale>
+		<unit> Printer&amp;ink cartriges</unit>
+		<picture src="pics/canonprinter.jpg "></picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">A004</ID>
+		<company>Apple</company>
+		<product>Apple MacBook Pro 13.3" Intel Core i5 2.3GHz Laptop  </product>
+		<category>Computers</category>
+		<description>amazing new features like Thunderbolt Technology, powerful graphics, long battery life</description>
+		<price>$1249.99</price>
+		<sale>$1159.99</sale>
+		<unit>laptop&amp;charger </unit>
+		<picture src="pics/AppleMac.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">A005</ID>
+		<company>Samsung</company>
+		<product>Samsung 15.6" Intel Core i5 480M Laptop </product>
+		<category>Computers</category>
+		<description>it has slim and fluid design, it delivers unrivalled performance </description>
+		<price>$899.99</price>
+		<sale>$859.99 </sale>
+		<unit> laptop&amp;charger </unit>
+		<picture src="pics/Samsunglaptop.jpg"> </picture>
+	</item>
+		
+	<item>	
+		<ID onsale="no">B006</ID>
+		<company>Sandisk</company>
+		<product>Sandisk Sansa Clip Plus 2GB MP3 Player </product>
+		<category>iPod&amp;MP3 Players </category>
+		<description>2GB of internal storage gives you enough room for up to 500 of your favourite songs</description>
+		<price>$29.99</price>
+		<sale>$25.99	</sale>
+		<unit>mp3&amp;headphones</unit>
+		<picture src="pics/sandiskmp3.jpg"></picture>
+	</item>	
+		
+	<item>
+		<ID onsale="no">B007</ID>
+		<company>Sony</company>
+		<product>Sony Walkman 4GB MP3 Player </product>
+		<category>iPod&amp;MP3 Players</category>
+		<description>best-in-class battery life,up to 10 hours of uninterrupted video playback  on single charge</description>
+		<price>$69.99</price>
+		<sale>$65.99</sale>
+		<unit> mp3&amp;headphones </unit>
+		<picture src="pics/SonyWalkmanmp3.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">B008</ID>
+		<company>Apple</company>
+		<product>Apple 8GB 4th Generation iPod Touch  </product>
+		<category>iPod&amp;MP3 Players</category>
+		<description>best media player, portable gaming system,touch screen!</description>
+		<price>237.99</price>
+		<sale>210.99</sale>
+		<unit>mp3&amp;headphones</unit>
+		<picture src="pics/appleipod.jpg"></picture>
+	</item>
+		
+	<item>	
+		<ID onsale="no">B009</ID>
+		<company>Hip street</company>
+		<product>Hip Street 2GB Clip MP3 Player  </product>
+		<category>iPod&amp;MP3 Players</category>
+		<description>2 gigabytes of storage, this tiny player can clip anywhere</description>
+		<price>$14.99</price>
+		<sale> $12.99</sale>
+		<unit>mp3&amp;headphones </unit>
+		<picture src="pics/Hipstreet.jpg">  </picture>
+	</item>
+		
+	<item>	
+		<ID onsale="yes">B010</ID>
+		<company>incipio</company>
+		<product>Incipio Feather iPod Touch Case </product>
+		<category>iPod&amp;MP3 Players</category>
+		<description>Feather is ideal for the iPod touch user seeking inconspicuous, first-class protection</description>
+		<price>$29.99</price>
+		<sale> $19.99</sale>
+		<unit>the case</unit>
+		<picture src="pics/incipiocase.jpg "> </picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">C011</ID>
+		<company>Sony</company>
+		<product>Sony BRAVIA 32" LCD HDTV</product>
+		<category>TV&amp;Video</category>
+		<description>perfect for smaller size rooms, such as a dorm or kitchen </description>
+		<price>$369.99</price>
+		<sale>$329.99</sale>
+		<unit> TV&amp;power cord</unit>
+		<picture src="pics/SonyTV.jpg"></picture>
+	</item>
+
+	<item>	
+		<ID onsale="no">C012</ID>
+		<company>LG</company>
+		<product>LG 42" 1080p 120Hz LCD HDTV  </product>
+		<category>TV&amp;Video</category>
+		<description>provides sharper, faster, and brighter high definition viewing experience </description>
+		<price>$699.99</price>
+		<sale>$659.99 </sale>
+		<unit>TV&amp;power cord </unit>
+		<picture src="pics/LG.jpg"> </picture>
+	</item>
+
+	<item>
+		<ID onsale="no">C013</ID>
+		<company>Panasonic</company>
+		<product>Panasonic 58" 1080p 3D Plasma HDTV </product>
+		<category>TV&amp;Video</category>
+		<description>provides incredible depth, with images so realistic and textures</description>
+		<price>$2799.99</price>
+		<sale>$2599.99</sale>
+		<unit>3DTV&amp;power cord&amp;1 pair of 3D glasses</unit>
+		<picture src="pics/Panasonic3DTV.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">C014</ID>
+		<company>Samsung</company>
+		<product>Samsung 22" 1080p LED HDTV  </product>
+		<category>TV&amp;Video</category>
+		<description>the TV that is  ideal HDTV for your bedroom, dorm room, or office.</description>
+		<price>$399.99</price>
+		<sale>$359.99</sale>
+		<unit> TV&amp;power cord</unit>
+		<picture src="pics/SamsungTV.jpg "> </picture>
+	</item>
+
+	<item>
+		<ID onsale="no">C015</ID>
+		<company>Dynex</company>
+		<product>Dynex 21.6" LCD / DVD Combo HDTV </product>
+		<category>TV&amp;video</category>
+		<description>Perfect for smaller viewing areas, with a built-in DVD player</description>
+		<price>$269.99</price>
+		<sale>$249.99</sale>
+		<unit> TV&amp;power cord</unit>
+		<picture src="pics/DynexTV.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">D016</ID>
+		<company>MapleMusic Recordings</company>
+		<product>Taylor Swift - Fearless  </product>
+		<category>Music</category>
+		<description>Taylow swift's second album,one of the best mainstream albums of 2008</description>
+		<price>$13.99</price>
+		<sale>$11.99 </sale>
+		<unit> 1 CD</unit>
+		<picture src="pics/TaylorswiftCD.jpg"> </picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">D017</ID>
+		<company>Big Machine Records</company>
+		<product>Taylor Swift - Speak Now</product>
+		<category>Music</category>
+		<description>Taylor Swift returns in 2010 with her third album, having written all the material without outside help</description>
+		<price>$17.99</price>
+		<sale>$13.99</sale>
+		<unit> 2CD</unit>
+		<picture src="pics/TaylorswiftCD2.jpg "></picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">D018</ID>
+		<company>Jive (USA)</company>
+		<product> Britney Spears - Femme Fatale  </product>
+		<category>Music</category>
+		<description>This album features features the leadoff single "Hold It Against Me."</description>
+		<price>$14.99</price>
+		<sale>$12.99</sale>
+		<unit> 1CD</unit>
+		<picture src="pics/BritneySpearsCD.jpg"></picture>
+	</item>
+		
+	<item>	
+		<ID onsale="no">D019</ID>
+		<company>Interscope (USA)</company>
+		<product>Eminem - Recovery  </product>
+		<category>Music</category>
+		<description>it becomes obvious that Eminem's richest albums aren't necessarily his most structurally sound</description>
+		<price>$15.99</price>
+		<sale>$13.99 </sale>
+		<unit> 1CD</unit>
+		<picture src="pics/EminemCD.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">D020</ID>
+		<company>Island</company>
+		<product>Justin Bieber - Never Say Never: The Remixes  </product>
+		<category>Music</category>
+		<description>album was released a few days after the documentary Justin Bieber: Never Say Never</description>
+		<price>$7.99</price>
+		<sale>$5.99</sale>
+		<unit> 1CD </unit>
+		<picture src="pics/JustinBieber.jpg "> </picture>
+	</item>
+			
+	<item>
+		<ID onsale="no">E021</ID>
+		<company>Microsoft</company>
+		<product>XBOX 360 4GB Console  </product>
+		<category>Gaming</category>
+		<description>complete with built-in 802.11n WiFi connectivity, HDMI connectivity, a cool black colour</description>
+		<price>$199.99</price>
+		<sale>$189.99 </sale>
+		<unit> Console&amp;1 controller</unit>
+		<picture src="pics/Microsoftxbox.jpg  "></picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">E022</ID>
+		<company>Nintendo</company>
+		<product>Nintendo 3DS </product>
+		<category>Gaming</category>
+		<description>truly 3-dimensional gaming with unprecedented depth and interactivity</description>
+		<price>$249.99</price>
+		<sale>$245.99</sale>
+		<unit> Console&amp;2G SDcard</unit>
+		<picture src="pics/Nintendo3DS.jpg "> </picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">E023</ID>
+		<company>Nintendo</company>
+		<product>Nintendo Wii Remote Plus Console Bundle </product>
+		<category>Gaming</category>
+		<description>includes everything you need to enjoy the popular Wii Sports Resort game</description>
+		<price>$199.99</price>
+		<sale>$189.99</sale>
+		<unit>Console&amp;wii remote,wii remote Plus,wii nunchuck, wii sports and resort game</unit>
+		<picture src="pics/Nintendowii.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">E024</ID>
+		<company>Sony</company>
+		<product>PlayStation 3 160GB Entertainment System </product>
+		<category>Gaming</category>
+		<description>Tons of exclusive games with great graphics, provides great fun</description>
+		<price>$299.99</price>
+		<sale>$259.99</sale>
+		<unit> Console&amp;1 controller</unit>
+		<picture src="pics/Sonyps3.jpg"> </picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">E025</ID>
+		<company>Sony</company>
+		<product>PSP 3000 Core Pack System  </product>
+		<category>Gaming</category>
+		<description>The all-new PSP with vibrant widescreen LCD screen and built-in microphone! </description>
+		<price>$129.99</price>
+		<sale>$109.99</sale>
+		<unit>console&amp;battery pack</unit>
+		<picture src="pics/Sonypsp.jpg"> </picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">F026</ID>
+		<company>Intuit</company>
+		<product> TurboTax Standard Tax Year 2010 </product>
+		<category>Software</category>
+		<description>Get personal tax software ideal for Canadian couples and families</description>
+		<price>$29.99</price>
+		<sale>$25.99</sale>
+		<unit>  1CD</unit>
+		<picture src="pics/Intuittax.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">F027</ID>
+		<company>Norton</company>
+		<product>Norton AntiVirus 2011 </product>
+		<category>Software</category>
+		<description>Stay a step ahead of threats to your PC with fast, powerful protection</description>
+		<price>$34.99</price>
+		<sale>$32.99</sale>
+		<unit> 1CD </unit>
+		<picture src="pics/Nortonantivirus.jpg">  </picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">E028</ID>
+		<company>Microsoft</company>
+		<product>Microsoft Office Home And Student 2010 </product>
+		<category>Software</category>
+		<description>includes Word 2010, Excel 2010, PowerPoint 2010, and OneNote 2010.</description>
+		<price>$139.99</price>
+		<sale>$99.99 </sale>
+		<unit> 1CD</unit>
+		<picture src="pics/Microsoftoffice.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="yes">E029</ID>
+		<company>Adobe</company>
+		<product> Adobe Creative Suite 5 Design Standard Student and Teacher Edition (PC)</product>
+		<category>Software</category>
+		<description>Unleash your creativity, work fluidly across media, and produce exceptional results</description>
+		<price>$331.99</price>
+		<sale>$279.99 </sale>
+		<unit>1CD</unit>
+		<picture src="pics/Adobecreativesuite.jpg"></picture>
+	</item>
+		
+	<item>
+		<ID onsale="no">E030</ID>
+		<company>Apple</company>
+		<product>iLife '11 Family (Mac) </product>
+		<category>Software</category>
+		<description>includes new and improved versions of iPhoto, iMovie, and Garage Band</description>
+		<price>$79.99</price>
+		<sale> $49.99</sale>
+		<unit> 1CD </unit>
+		<picture src="pics/Appleilife.jpg"></picture>
+	</item>
+
+</storage>
